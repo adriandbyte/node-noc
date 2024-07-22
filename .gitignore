@@ -1,8 +1,13 @@
 
 .env
+/postgres
+/mongo
 
 node_modules/
 dist/
 
 # Logs
 .DS_Store
+
+/logs
+

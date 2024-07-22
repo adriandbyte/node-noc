@@ -1,1 +1,16 @@
 {"message":"Log email sent","level":"low","createdAt":"2024-07-19T16:10:22.659Z","origin":"send-email-logs.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-07-22T14:56:05.631Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-07-22T14:56:10.438Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-07-22T14:56:15.464Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-07-22T14:56:20.333Z","origin":"check-service.ts"}
+{"message":"https://gooasdadsgle.com is not ok. TypeError: fetch failed","level":"high","createdAt":"2024-07-22T14:56:25.131Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-07-22T14:56:30.704Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-07-22T14:56:35.495Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-07-22T14:56:40.441Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-07-22T14:56:45.610Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-07-22T14:56:50.643Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-07-22T14:56:55.452Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-07-22T14:57:00.463Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-07-22T21:46:10.836Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-07-22T21:46:15.621Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-07-22T21:46:20.536Z","origin":"check-service.ts"}
